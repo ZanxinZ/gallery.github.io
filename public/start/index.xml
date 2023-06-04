@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>开始 on Zanxinz 相册</title>
+    <link>http://example.org/start/</link>
+    <description>Recent content in 开始 on Zanxinz 相册</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>ZanxinZ@outlook.com (ZanxinZ)</managingEditor>
+    <webMaster>ZanxinZ@outlook.com (ZanxinZ)</webMaster>
+    <lastBuildDate>Sun, 04 Jun 2023 03:36:49 +0800</lastBuildDate><atom:link href="http://example.org/start/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
