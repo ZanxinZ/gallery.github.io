@@ -24,7 +24,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # github_token: ${{ secrets.GITHUB_TOKEN }}
           personal_token: ${{ secrets.ACTION_ACCESS_TOKEN }}
           publish_dir: ./public  ## 选择 deploy 源头，把这个 docs 部署到 main 分支  
           publish_branch: main
