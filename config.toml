@@ -5,6 +5,7 @@ title = "Zanxinz 相册"
 theme = "autophugo"
 
 
+
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "term"]
 [taxonomies]
@@ -29,7 +30,7 @@ disableKinds = ["taxonomy", "term"]
     breadcrumb_use_title = false
     #filename_as_phototitle = false
     images_downloadable = true
-    images_downloadable_use_orig = false
+    images_downloadable_use_orig = true # 原图下载
     taxonomies_links = false
 
     # Headerbar links
