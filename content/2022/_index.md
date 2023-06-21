@@ -2,7 +2,7 @@
 title: "2022"
 date: 2023-06-04T04:40:55+08:00
 weight: 0
-albumthumb: "2022/02.png"
+albumthumb: "2022/02.jpg"
 draft: false
 ## Optional additional meta info for resources list
 #  alt: Image alternative and screen-reader text
