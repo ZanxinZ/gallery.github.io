@@ -1,5 +1,5 @@
 # Settings
-baseurl = "http://example.org/"
+baseurl = "http://homo.run/"
 languageCode = "zh-CN"
 title = "Zanxinz 相册"
 theme = "autophugo"
