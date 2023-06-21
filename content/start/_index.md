@@ -3,7 +3,7 @@ title: "开始"
 date: 2023-06-04T03:36:49+08:00
 weight: 0
 albumthumb: "start/02.jpg"
-draft: false
+draft: true
 ## Optional additional meta info for resources list
 #  alt: Image alternative and screen-reader text
 #  phototitle: A title for the photo
